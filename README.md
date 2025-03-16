@@ -2,7 +2,7 @@ Hi, I'm Alex Kibaya!
 💻 Developer | 🚀 Tech Enthusiast | 🎨 Creative Thinker
 
 🛠 Tech Stack
-Languages: PHP, C++, C#, C, Java, Python (learning for web development)
+Languages: PHP, C++, C#, C, Java, Python (learning for web development) 
 Web & Tools: NPM, Environment Variables, Frontend & Backend Development
 Styling Preference: Different shades of brown 🎨
 🌱 Currently Learning
