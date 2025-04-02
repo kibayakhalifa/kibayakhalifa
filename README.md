@@ -13,7 +13,7 @@ Hello! 👋 I'm Alex Mwangi Kibaya, a passionate developer with experience in a 
 
 Here are a few notable projects I've worked on:
 
-- Hair salon website(https://blessedraynahairsalon.netlify.app): Showcasing a modern, responsive website for a hair and beauty salon.
+- [Hair salon website](https://blessedraynahairsalon.netlify.app): Showcasing a modern, responsive website for a hair and beauty salon.
 - [My Portfolio](alexmwangikibaya.netlify.app): A showcase of my personal work and projects.
 
 ## About Me
