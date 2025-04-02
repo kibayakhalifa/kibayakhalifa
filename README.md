@@ -26,6 +26,6 @@ Feel free to browse through my repositories, check out my projects, and don’t 
 
 - **LinkedIn**: [https://www.linkedin.com/in/alex-kibaya-500693332]
 - **Twitter**: [https://x.com/sketchykhalifa]
-- **Website**: [alexmwangikibaya.netlify.app]
+- **Website**: [https://alexmwangikibaya.netlify.app]
 
 Thanks for stopping by! 🚀
